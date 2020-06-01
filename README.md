@@ -13,7 +13,8 @@ SimpleLinkedList - Todas as Senhas
  - addFirst()
  - toArray()
 
-########################################################################################################################################
+##
+
 Sistema deve ser implementado com os dados em memória. Sem banco de dados.
 
 As senhas normais obedecem a ordem de chegada. O primeiro a chegar, o primeiro a ser atendido.
@@ -25,7 +26,8 @@ O funcionário desconhece qual o tipo da próxima senha. Apenas clica no botão 
 O painel exibe a senha em atendimento.
 
 O painel exibe a lista das últimas senhas atendidas.
-##########
+
+##
 
 ```java
 public class Senha(){
