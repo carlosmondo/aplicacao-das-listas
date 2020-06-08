@@ -1,13 +1,13 @@
 # aplicacao-das-listas
 
 SimpleLinkedList - Senhas Prioritarias
- - addFirst()
- - removeLast()
+ - addLast()
+ - removeFirst()
  - isEmpty()
 
 SimpleLinkedList - Senhas Normais
- - addFirst()
- - removeLast()
+ - addLast()
+ - removeFirst()
 
 SimpleLinkedList - Todas as Senhas
  - addFirst()
