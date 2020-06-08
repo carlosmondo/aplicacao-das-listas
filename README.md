@@ -31,7 +31,7 @@ O painel exibe a lista das últimas senhas atendidas.
 
 ```java
 public class Senha(){
-	public String type;
+	public bool prioritaria;
 	public int numero;
 	public Date data;
 }
